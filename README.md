@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radek
-- 👀 I’m interested in ... many thing :)
+- 👀 I’m interested in ... many things :)
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on portfolio projects
 - 📫 How to reach me rnowosielski77@gmail.com
